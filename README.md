@@ -62,5 +62,7 @@ WordPressを構築する際にphpを使用しています。
 <img src="./images/scleenshot4.png" style="width: 50%;">
 </p>
 
+### 💡エラーページのデザイン
+
 
 
