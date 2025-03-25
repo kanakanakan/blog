@@ -35,16 +35,14 @@ WordPressを構築する際にphpを使用しています。
 - background: url() や content: url() を活用し、カテゴリーごとに異なるイラストのアイコンが表示されるよう設計。
 - 細かい部分まで遊び心を取り入れることで、使っていて飽きない、わくわくするサイトになるよう工夫しました。
 - どこにどのカテゴリーの記事があるのか一目で分かるため、カテゴリー名が小さな字で表記されているよりも探しやすい設計になっています。
-
 <p align="center">
 <img src="./images/scleenshot2.png" style="width: 50%;">
 <img src="./images/scleenshot3.png" style="width: 30%;">
 </p>
+<br />
+<br />
 
 - 現時点では記事にまだ使われていないカテゴリーがあるため、2種類しか表示されていませんが、実際には全部で4種類のカテゴリーとイラストがあります。
-<br />
-<br />
-
 
 <table align="center">
   <tr>
