@@ -32,3 +32,6 @@ WordPressを構築する際に、phpを使用しました。
 
 
 ## ▼工夫したところ
+
+<img src="./images/scleenshot2.png" width="600">
+
