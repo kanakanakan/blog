@@ -42,5 +42,14 @@ background: url() や content: url() を活用して、カテゴリーごとに�
 
 現時点では記事にまだ使われていないカテゴリーがあるため、2種類しか表示されていませんが、実際には全部で4種類のカテゴリーとイラストがあります。
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 80px;"><img src="./images/berry.svg" style="width: 52%;"></td>
+    <td align="center" style="padding-right: 80px;"><img src="./images/leaf.svg" style="width: 44%;"></td>
+    <td align="center" style="padding-right: 80px;"><img src="./images/fox.svg" style="width: 65%;"></td>
+    <td align="center"><img src="./images/squirrel.svg" style="width: 65%;"></td>
+  </tr>
+</table>
+
 
 
