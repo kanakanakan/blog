@@ -40,3 +40,7 @@ background: url() や content: url() を活用して、カテゴリーごとに�
 <img src="./images/scleenshot3.png" style="width: 30%;">
 </p>
 
+現時点では記事にまだ使われていないカテゴリーがあるため、2種類しか表示されていませんが、実際には全部で4種類のカテゴリーとイラストがあります。
+
+
+
