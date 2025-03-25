@@ -51,7 +51,7 @@ background: url() や content: url() を活用して、カテゴリーごとに�
   </tr>
 </table>
 
-また、右サイドバーにあるカテゴリーをそれぞれクリックすると、カテゴリーごとに絞られた検索結果が表示されます。
+また、右サイドバーのカテゴリー一覧をそれぞれクリックすると、カテゴリーごとに絞られた検索結果が表示されます。
 
 <p align="center">
 <img src="./images/scleenshot4.png" style="width: 60%;">
