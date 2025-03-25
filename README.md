@@ -27,4 +27,8 @@
 ![](https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,vscode,wordpress)
 
 WordPressを構築する際に、phpを使用しました。
+<br />
+<br />
 
+
+## ▼工夫したところ
