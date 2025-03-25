@@ -51,5 +51,8 @@ background: url() や content: url() を活用して、カテゴリーごとに�
   </tr>
 </table>
 
+<img src="./images/scleenshot4.png" style="width: 50%;">
+
+
 
 
