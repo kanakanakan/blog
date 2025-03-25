@@ -26,19 +26,20 @@
 ## ▼使用技術・ツール
 ![](https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,vscode,wordpress)
 
-WordPressを構築する際に、phpを使用しました。
+WordPressを構築する際にphpを使用しています。
 <br />
 <br />
-
 
 ## ▼工夫したところ
-### ①記事のカテゴリーごとに異なるアイコンを表示
-background: url() や content: url() を活用して、カテゴリーごとに異なるイラストのアイコンが表示されるようにしています。細かい部分にまで遊び心を取り入れることで、使っていて飽きない、わくわくするようなサイトになるよう工夫しました。
-
+### 💡記事のカテゴリーごとに異なるアイコンを表示
+- background: url() や content: url() を活用し、カテゴリーごとに異なるイラストのアイコンが表示されるよう設計。
+- 細かい部分まで遊び心を取り入れることで、使っていて飽きない、わくわくするサイトになるよう工夫しました。
+- どこにどのカテゴリーの記事があるのか一目で分かるため、カテゴリー名が小さな字で表記されているよりも探しやすい設計になっています。
 <p align="center">
 <img src="./images/scleenshot2.png" style="width: 50%;">
 <img src="./images/scleenshot3.png" style="width: 30%;">
 </p>
+<br />
 
 現時点では記事にまだ使われていないカテゴリーがあるため、2種類しか表示されていませんが、実際には全部で4種類のカテゴリーとイラストがあります。
 
@@ -50,6 +51,19 @@ background: url() や content: url() を活用して、カテゴリーごとに�
     <td align="center"><img src="./images/squirrel.svg" style="width: 65%;"></td>
   </tr>
 </table>
+<br />
+
+### 💡絞り込み検索機能
+- キーワード検索だけでなく、カテゴリーごとに絞り込み検索をすることもできます。この際にも、視覚的に同じアイコンがついた記事だけが残ることで、ページが切り替わったことが分かりやすくなっています。
+
+<p align="center">
+<img src="./images/scleenshot4.png" style="width: 50%;">
+</p>
+<br />
+<br />
+
+
+### 💡エラーページのデザイン
 
 
 
