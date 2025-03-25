@@ -25,3 +25,6 @@
 
 ## ▼使用技術・ツール
 ![](https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,vscode,wordpress)
+
+wordpressを構築する際に、phpを使用しました。
+
