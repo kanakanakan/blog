@@ -59,7 +59,7 @@ WordPressを構築する際にphpを使用しています。
 - カテゴリーごとに絞り込み検索をすることもできます。この際にも視覚的に同じアイコンだけが残ることで、ページが切り替わったことが分かりやすくなっています。
 
 <p align="center">
-<img src="./images/scleenshot4.png" style="width: 60%;">
+<img src="./images/scleenshot4.png" style="width: 50%;">
 </p>
 
 
